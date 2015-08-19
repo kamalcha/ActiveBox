@@ -1,4 +1,4 @@
-# **ActiveBox
+# ActiveBox
 
 One Page Multi Purpose Website Template created by [Kamal Chaneman](http://kamalchaneman.com/)
 
