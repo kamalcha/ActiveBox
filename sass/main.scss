@@ -344,6 +344,9 @@ ul li {
 	$Download
 ========================================================================== */
 .download {
+	&.wordpress{
+		background-color: rgba($white, .12);
+	}
 	h3 {
 		margin-top: 0;
 	}

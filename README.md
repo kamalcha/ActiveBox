@@ -4,6 +4,8 @@ One Page Multi Purpose Website Template created by [Kamal Chaneman](http://kamal
 
 [Demo](http://kamalchaneman.com/activebox/)
 
+[WordPress Theme](https://github.com/nguyenvanduocit/ActiveBox/)
+
 ## License
 
 Use it freely but please do not republish, distribute or sell "as-is".
